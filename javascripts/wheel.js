@@ -1,11 +1,10 @@
 var students = [
   {name: 'Dragon'},
   {name: 'Tiger'},
+  {name: 'Dragon'},
   {name: 'Tiger'},
   {name: 'Dragon'},
   {name: 'Tiger'},
-  {name: 'Tiger'},
-  {name: 'Dragon'},
   {name: 'Dragon'},
 ];
 
