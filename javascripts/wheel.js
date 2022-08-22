@@ -1,11 +1,7 @@
 var students = [
-  {name: 'Dragon'},
-  {name: 'Tiger'},
-  {name: 'Dragon'},
-  {name: 'Tiger'},
-  {name: 'Dragon'},
-  {name: 'Tiger'},
-  {name: 'Dragon'},
+  {name: 'dragon'},
+  {name: 'try again'},
+  {name: 'tiger'},
 ];
 
 var shuffle = function (o) {
